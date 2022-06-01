@@ -1,9 +1,9 @@
-% Mærstánas
+% Mǽrstánas
 % by John Beers
-% Version 0.1
+% Version 0.1.1
 
 # Overview
-**Mærstánas** is a free libre open source abstract strategy game where players alternate placing stones within the squares of a 7x7 grid with the goal of creating connection points between their own pieces.
+**Mǽrstánas** is a free libre open source abstract strategy game where players alternate placing stones within the squares of a 7x7 grid with the goal of creating connection points between their own pieces.
 
 ## Objective
 Players try to achieve the highest score by making the most number of connections.
@@ -29,15 +29,15 @@ The board begins empty (similar to Go). Players may decide which one goes first 
 - The player with the highest score wins.
 
 # Credits
-**Mærstánas** was created by John Beers.
+**Mǽrstánas** was created by John Beers.
 
-It was conceived in 2022 while working on **Oferhlýp**. As a fan of Hnefatafl, I wanted to name my games using Anglo-Saxon words to lend a quasi-historical feel to them. Both **Mærstánas** and **Oferhlýp** utilize the same 7x7 grid because, if they _were_ historical, it might make sense for people to reuse an existing board, much like chess and checkers.
+It was conceived in 2022 while working on **Oferhlýp**. As a fan of Hnefatafl, I wanted to name my games using Anglo-Saxon words to lend a quasi-historical feel to them. Both **Mǽrstánas** and **Oferhlýp** utilize the same 7x7 grid because, if they _were_ historical, it might make sense for people to reuse an existing board, much like chess and checkers.
 
-> The word _mærstánas_ is the plural form of _mærstán_, an Anglo-Saxon (Old English) word that means "a boundary-stone".
+> The word _mǽrstánas_ is the plural form of _mǽrstán_, an Anglo-Saxon (Old English) word that means "a boundary-stone".
 > (<https://bosworthtoller.com/22190>)
 
 # Legal
-**Mærstánas** is available under a Creative Commons Attribution-ShareAlike 4.0 International license. (<https://creativecommons.org/licenses/by-sa/4.0/>)
+**Mǽrstánas** is available under a Creative Commons Attribution-ShareAlike 4.0 International license. (<https://creativecommons.org/licenses/by-sa/4.0/>)
 
 **You are free to:**
 
@@ -56,4 +56,4 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 ## Find out more
 
-More information on **Mærstánas** and “living rules” can be found at: <http://github.com/jaerrib/maerstanas>
+More information on **Mǽrstánas** and “living rules” can be found at: <http://github.com/jaerrib/maerstanas>
