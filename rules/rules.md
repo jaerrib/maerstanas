@@ -1,6 +1,6 @@
 % Mǽrstánas
 % by John Beers
-% Version 0.1.2
+% Version 0.1.3
 
 # Overview
 **Mǽrstánas** is a free libre open source abstract strategy game where players alternate placing stones within the squares of a 7x7 grid with the goal of creating connection points ("hinges") between their own pieces or the edges of the board.
@@ -19,16 +19,18 @@ The board begins empty (similar to Go). Players may decide who goes first in wha
 - On a player's turn, the player places one stone (_stán_) on a square on the game board.
 - Stones (_stánas_) must be placed within the square, not on the intersections as in Go.
 - Stones may be placed on any empty square, either standing alone or adjacent to another stone of either color (creating a _heorr_ or "hinge").
+
 ## Placement limitations:
-- Stones may only have no more than **three** _heorras_; the fourth side *must always remain free*.
-- Stones may not be place such that four _heorras_ are created immediately.
-- The edge of the board counts as **one** _heorr_; corners count as **two** because they boarder two edges.
+- Stones may have no more than **three** hinges; the fourth side *must always remain free*.
+- Stones may not be placed such that four hinges are created immediately.
+- The edge of the board counts as **one** hinge; corners count as **two** because they border two edges.
 - Play continues until no more viable moves remain.
 
 # Scoring
 
-- Players receive one point for each stone or edge adjacent to one of their own stones (_freóndlíc heorr_ or "friendly hinge").
+- Players receive one point for each stone or edge that is adjacent to one of their own stones (_freóndlíc heorr_ or "friendly hinge").
 - The player with the highest score wins.
+- Note that tie games are possible.
 
 # Credits
 **Mǽrstánas** was created by John Beers.
