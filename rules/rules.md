@@ -1,6 +1,6 @@
 % Mǽrstánas
 % by John Beers
-% Version 0.1.3
+% Version 0.2.0
 
 # Overview
 **Mǽrstánas** is a free libre open source abstract strategy game where players alternate placing stones within the squares of a 7x7 grid with the goal of creating connection points ("hinges") between their own pieces or the edges of the board.
@@ -32,6 +32,19 @@ The board begins empty (similar to Go). Players may decide who goes first in wha
 - The player with the highest score wins.
 - Note that tie games are possible.
 
+# Alternate rules and scoring
+
+## The wraparound rule ("Advanced Mǽrstánas")
+- When considering hinges for edge positions, instead of counting the edge as a hinge, look at the position on the opposite side of the board.
+	- For example, position A2 would only count a hinge if a friendly stone was placed at G2. Likewise B3 would need to look at B7.
+	- Stones places in corners would need to consider both opposing corners.
+- When the "wraparound" rule is in effect, edges are **not** automatically scored as hinges. Only true stone-to-stone hinges, including wraparound positions, are scored.
+- Note: This rule may create positions that normally look unplayable. Care must be exercised when looking at at edge plays.
+
+## Simple scoring
+- When playing with the traditional ruleset, disregard scoring all edge hinges. This results in a lower scoring game, but may make it easier for new or younger players to grasp scoring more quickly.
+
+
 # Credits
 **Mǽrstánas** was created by John Beers.
 
@@ -39,6 +52,8 @@ It was conceived in 2022 while working on **Oferhlýp**. As a fan of Hnefatafl, 
 
 > The word _mǽrstánas_ is the plural form of _mǽrstán_, an Anglo-Saxon (Old English) word that means "a boundary-stone".
 > (<https://bosworthtoller.com/22190>)
+
+Special thanks to my cousins, Caleb, Jerome, and Jesse, for play testing and coming up with the Advanced Mǽrstánas rule.
 
 # Legal
 **Mǽrstánas** is available under a Creative Commons Attribution-ShareAlike 4.0 International license. (<https://creativecommons.org/licenses/by-sa/4.0/>)
@@ -60,7 +75,7 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 # Find out more
 
-More information on **Mǽrstánas** and “living rules” can be found at: <http://github.com/jaerrib/maerstanas>
+More information on **Mǽrstánas** and “living rules” can be found at: <http://codeberg.org/jaerrib/maerstanas>
 
 # Alternative play option
 If you don't have access to stones, feel free to use the included page of gameboards. **Mǽrstánas** is similar to Tic-Tac-Toe in that players can just alternate writing an _X_ or an _O_ in place of the stones. You can also just draw a 7x7 grid if you find yourself without a printer and need to pass the time! Just remember that **Mǽrstánas** is _not_ Tic-Tac-Toe, and the rules and win conditions are different.
