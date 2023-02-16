@@ -14,6 +14,7 @@ Players try to achieve the highest score by making the most number of connection
 
 - Game board
 - Approximately 40 stones or tokens, split evenly between two colors
+- 1 stone of each color marked in some manner (traditionally a *thurisaz* rune) to designate it as a *Þunor-stán* ("thunder-stone").
 
 ## Setup & starting the game
 
@@ -31,6 +32,13 @@ The board begins empty (similar to Go). Players may decide who goes first in wha
 - Stones may not be placed such that four hinges are created immediately.
 - The edge of the board counts as **one** hinge; corners count as **two** because they border two edges.
 - Play continues until no more viable moves remain.
+
+## Thunder-stone rules
+
+- Players each have one thunder-stone (*Þunor-stán*), which may be placed on the board during their turn **instead of a regular stone**.
+- Thunder-stones are the exception to the four hinge limitation. This is because, when placed, a thunder-stone removes any and all stones orthognally adjacent to its position, whether they belong to the player or the opponent.
+- Stones which have been removed from the board are returned to the respective players and do not count as captures or contribute to scoring in any way.
+- After placement, thunder-stones hinges and scoring are treated the same as normal stones.
 
 # Scoring
 
