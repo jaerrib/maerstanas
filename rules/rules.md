@@ -14,7 +14,7 @@ Players try to achieve the highest score by making the most number of connection
 
 - Game board
 - Approximately 40 stones or tokens, split evenly between two colors
-- 1 stone of each color marked in some manner (traditionally a *thurisaz* rune) to designate it as a *Þunor-stán* ("thunder-stone").
+- 1 stone of each color marked in some manner (traditionally a *Þorn*, or "thorn" rune) to designate it as a *Þunor-stán* ("thunder-stone").
 
 ## Setup & starting the game
 
