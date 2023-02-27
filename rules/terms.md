@@ -6,11 +6,11 @@ This document is intended to list the various Anglo-Saxon (Old English) gameplay
 
 *plural* heorras
 
-"hinge", refers to the connection a stone has with an adjacent stone or the edge of the board
+"hinge", refers to the connection a stone has with an adjacent stone or with the edge of the board
 
 ## frǽcenes
 
-"danger, peril", the state of having four hinges; stones may not be placed in this condition
+"danger, peril", the state of having four hinges; stones may not be played where they would be in this state or would cause any adjacent stones to be in this state
 
 ## freóndlíc heorr
 
@@ -28,11 +28,11 @@ This document is intended to list the various Anglo-Saxon (Old English) gameplay
 
 *plural* stánas
 
-"stone", the game is literally played with stones
+"stone", the game is literally played with stones of different colors
 
 ## tæfl
 
-"board", used for playing Mǽrstánas similar to Hnefetafl
+"board", used for playing Mǽrstánas similar to the one used in the game of Hnefetafl
 
 ## Þorn**
 
