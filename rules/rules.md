@@ -1,6 +1,6 @@
 % Mǽrstánas
 % by John Beers
-% Version 0.3.0
+% Version 0.3.1
 
 # Overview
 
@@ -12,13 +12,13 @@ Players try to achieve the highest score by making the most number of connection
 
 ## Components
 
-- Game board
-- Approximately 40 stones or tokens, split evenly between two colors
+- Game board (*tæfl*)
+- Approximately 40 stones (*stánas*) or tokens, split evenly between two colors
 - 1 stone of each color marked in some manner (traditionally a *Þorn*, or "thorn" rune) to designate it as a *Þunor-stán* ("thunder-stone").
 
 ## Setup & starting the game
 
-The board begins empty (similar to Go). Players may decide who goes first in whatever manner seems appropriate. Players then alternate taking turns.
+The board begins empty (similar to Go). Traditionally, the player using the darker colored stones would play first, but players may decide who goes first in whatever manner seems appropriate. Players then alternate taking turns.
 
 # Playing the game
 
@@ -35,7 +35,7 @@ The board begins empty (similar to Go). Players may decide who goes first in wha
 
 ## Thunder-stone rules
 
-- Players each have one thunder-stone (*Þunor-stán*), which may be placed on the board during their turn **instead of a regular stone**.
+- Players each have **one** thunder-stone (*Þunor-stán*), which may be placed on the board during their turn **instead of a regular stone**.
 - Thunder-stones are the exception to the four hinge limitation. This is because, when placed, a thunder-stone removes any and all stones orthognally adjacent to its position, whether they belong to the player or the opponent.
 - Stones which have been removed from the board are returned to the respective players and do not count as captures or contribute to scoring in any way.
 - After placement, thunder-stones hinges and scoring are treated the same as normal stones.
