@@ -2,42 +2,34 @@
 
 This document is intended to list the various Anglo-Saxon (Old English) gameplay terms associated with **Mǽrstánas**.
 
-## heorr
+heorr (*pl.* heorras)
 
-*plural* heorras
+: "hinge", refers to the connection a stone has with an adjacent stone or with the edge of the board
 
-"hinge", refers to the connection a stone has with an adjacent stone or with the edge of the board
+frǽcenes
 
-## frǽcenes
+: "danger, peril", the state of having four hinges; stones may not be played where they would be in this state or would cause any adjacent stones to be in this state
 
-"danger, peril", the state of having four hinges; stones may not be played where they would be in this state or would cause any adjacent stones to be in this state
+freóndlíc heorr (*pl.* freóndlíc heorras)
 
-## freóndlíc heorr
+: "friendly hinge", these are used in calculating each player's score
 
-*plural* freóndlíc heorras
+mǽrstán (*pl.* mǽrstánas)
 
-"friendly hinge", these are used in calculating each player's score
+: "boundary stone", the game derives its name from this term because of the adjacent nature in which stones are scored
 
-## mǽrstán
+stán (*pl.* stánas)
 
-*plural* mǽrstánas
+: "stone", the game is literally played with stones of different colors
 
-"boundary stone", the game derives its name from this term because of the adjacent nature in which stones are scored
+tæfl
 
-## stán
+: "board", used for playing Mǽrstánas similar to the one used in the game of Hnefetafl
 
-*plural* stánas
+Þorn
 
-"stone", the game is literally played with stones of different colors
+: "thorn" or "Thor" rune, associated with brute force
 
-## tæfl
+Þunor-stán
 
-"board", used for playing Mǽrstánas similar to the one used in the game of Hnefetafl
-
-## Þorn**
-
-"thorn" or "Thor" rune, associated with brute force
-
-## Þunor-stán
-
-"thunder-stone", so named because of its devastating power when placed next to adjacent stones
+: "thunder-stone", so named because of its devastating power when placed next to adjacent stones
