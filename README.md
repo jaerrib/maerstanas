@@ -1,8 +1,6 @@
 # Mǽrstánas
 
-Development has been moved to **[Codeberg](https://codeberg.org/jaerrib/maerstanas)**.
-
-![Get it on Codeberg](get-it-on-codeberg.png)
+Primary development happens on [Codeberg](https://codeberg.org/jaerrib/maerstanas) with [Github](https://github.com/jaerrib/maerstanas) acting as a mirror.
 
 ## Overview
 
@@ -22,13 +20,11 @@ Computer versions of **Mǽrstánas** are being developed in tandem with the boar
 
 ### Python
 
-<https://codeberg.org/jaerrib/maerstanas_python>
-<https://github.com/jaerrib/maerstanas_python>
+[Codeberg](https://codeberg.org/jaerrib/maerstanas_python) | [Github](https://github.com/jaerrib/maerstanas_python)
 
 ### Javascript
 
-<https://codeberg.org/jaerrib/maerstanas_js>
-<https://github.com/jaerrib/maerstanas_js>
+[Codeberg](https://codeberg.org/jaerrib/maerstanas_js) | [Github](https://github.com/jaerrib/maerstanas_js)
 
 ---
 
