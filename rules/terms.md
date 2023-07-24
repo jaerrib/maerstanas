@@ -18,6 +18,10 @@ mǽrstán (*pl.* mǽrstánas)
 
 : "boundary stone", the game derives its name from this term because of the adjacent nature in which stones are scored
 
+ós
+
+: "god" or "mouth" rune, usually associated with Odin/Woden
+
 stán (*pl.* stánas)
 
 : "stone", the game is literally played with stones of different colors
@@ -33,3 +37,7 @@ tæfl
 Þunor-stán
 
 : "thunder-stone", so named because of its devastating power when placed next to adjacent stones
+
+Wóden-stán
+
+: "Woden-stone", so named because of the stone's ability to reveal the true nature of an opponent's stone, much like Woden's disguise of the wanderer hid his godly identity 
