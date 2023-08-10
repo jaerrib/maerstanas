@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+    <title>Mǽrstánas</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Mǽrstánas</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="#">News</a></li>
+                <li><a class="current" href="rules.html">Rules</a></li>
+                <li><a href="#">Media</a></li>
+                <li><a href="#">Source</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>How to Play</h1>
+        <article>
+            <section>
+                <header>
+                    <h2>Overview</h2>
+                    <p><strong>Mǽrstánas</strong> is a free libre open source abstract strategy game where players alternate placing stones within the squares of a 7x7 grid with the goal of creating connection points ("hinges") between their own pieces or the edges of the board.</p>
+                </header>
+                <h3>Objective</h3>
+                <p>Players try to achieve the highest score by making the most number of connections.</p>
+
+                <h3>Components</h3>
+                <ul>
+                    <li>Game board (tæfl)</li>
+                    <li>Approximately 40 stones (stánas) or tokens, split evenly between two colors</li>
+                    <li>1 stone of each color marked in some manner (traditionally a Þorn, or "thorn" rune - ᚦ) to designate it as a Þunor-stán ("thunder-stone").</li>
+                    <li>1 stone of each color marked in some manner (traditionally an ós, or "god" rune - ᚩ) to designate it as a wóden-stán ("Woden-stone").</li>
+                </ul>
+
+                <h3>Setup & starting the game</h3>
+                <p>The board begins empty (similar to Go). Traditionally, the player using the darker colored stones would play first, but players may decide who goes first in whatever manner seems appropriate. Players then alternate taking turns.</p>
+            <footer>
+                <p><a href="#top">[Top]</a></p>
+            </footer>
+            </section>
+
+            <section>
+                <header>
+                    <h2>Playing the game</h2>
+                    <ul>
+                        <li>On a player's turn, the player places one stone (stán) on a square on the game board.</li>
+                        <li>Stones (stánas) must be placed within the square, not on the intersections as in Go.</li>
+                        <li>Stones may be placed on any empty square, either standing alone or adjacent to another stone of either color (creating a heorr or "hinge").</li>
+                    </ul>
+                </header>
+                    <h3>Placement limitations</h3>
+                    <ul>
+                        <li>Stones may have no more than three hinges; the fourth side <em>must always remain free</em>.</li>
+                        <li>Stones may not be placed such that four hinges are created immediately.</li>
+                        <li>The edge of the board counts as one hinge; corners count as two because they border two edges.</li>
+                        <li>Play continues until no more viable moves remain.</li>
+                    </ul>
+                <h3>Thunder-stone rules</h3>
+                <ul>
+                    <li>Players each have <strong>one</strong> thunder-stone (<em>Þunor-stán</em>), which may be placed on the board during their turn <strong>instead of a regular stone</strong>.</li>
+                    <li>Thunder-stones are the exception to the four hinge limitation. This is because, when placed, a thunder-stone removes any and all stones orthogonally adjacent to its position, whether they belong to the player or the opponent.</li>
+                    <li>Stones which have been removed from the board are returned to the respective players and do not count as captures or contribute to scoring in any way.</li>
+                    <li>After placement, thunder-stones hinges and scoring are treated the same as normal stones.</li>
+                </ul>
+                <h3>Woden-stone rules</h3>
+                <ul>
+                    <li>Players each have <strong>one</strong> Woden-stone (<em>wóden-stán</em>), which may be placed on the board during their turn <strong>instead of a regular stone</strong>.</li>
+                    <li>Unlike standard and thunder-stones, which are placed on an open square, players use the Woden-stone to **replace** one of their opponent's stones already on the board.</li>
+                    <li>Being able to swap out an opponent's stone can create unique scoring and blocking opportunities, so waiting to use the Woden-stone until later in the game may offer greater strategic advantage.</li>
+                    <li>After placement, Woden-stones are scored the same as normal stones.</li>
+                </ul>
+                <footer>
+                    <p><a href="#top">[Top]</a></p>
+                </footer>
+            </section>
+            
+            <section>
+                <header>
+                    <h2>Scoring</h2>
+                        <ul>
+                            <li>Players receive one point for each stone or edge that is adjacent to one of their own stones (<em>freóndlíc heorr</em> or "friendly hinge").</li>
+                            <li>The player with the highest score wins.</li>
+                            <li>Note that tie games are possible.</li>
+                        </ul>
+                </header>
+                    <h3>Alternate rules and scoring</h3>
+                    <h4>The wraparound rule ("Advanced Mǽrstánas")</h4>
+                    <ul>
+                        <li>When considering hinges for edge positions, instead of counting the edge as a hinge, look at the position on the opposite side of the board.
+                            <ul>
+                                <li>For example, position A2 would only count a hinge if a friendly stone was placed at G2. Likewise B3 would need to look at B7.</li>
+                                <li>Stones places in corners would need to consider both opposing corners.</li>
+                            </ul>
+                        </li>
+                        <li>When the "wraparound" rule is in effect, edges are **not** automatically scored as hinges. Only true stone-to-stone hinges, including wraparound positions, are scored.</li>
+                        <li>Note: This rule may create positions that normally look unplayable. Care must be exercised when looking at at edge plays.</li>
+                    </ul>
+
+                    <h4>Simple scoring</h4>
+                    <p>When playing with the traditional ruleset, disregard scoring all edge hinges. This results in a lower scoring game, but may make it easier for new or younger players to grasp scoring more quickly.</p>
+                <footer>
+                    <p><a href="#top">[Top]</a></p>
+                </footer>
+            </section>
+
+            <section>
+            <header>
+            <h2>Credits</h2>
+            <p><strong>Mǽrstánas</strong> was created by John Beers.</p>
+            <p>It was conceived in 2022 while working on <strong>Oferhlýp</strong>. As a fan of Hnefatafl, I wanted to name my games using Anglo-Saxon words to lend a quasi-historical feel to them. Both <strong>Mǽrstánas</strong> and <strong>Oferhlýp</strong> utilize the same 7x7 grid because, if they <em>were</em>> historical, it might make sense for people to reuse an existing board, much like chess and checkers.</p>
+            <blockquote>
+                <p>The word *mǽrstánas* is the plural form of *mǽrstán*, an Anglo-Saxon (Old English) word that means "a boundary-stone".</p>
+                <p>(<a href="https://bosworthtoller.com/22190" target="_blank">https://bosworthtoller.com/22190</a>)</p>
+            </blockquote>
+           </header>
+                <p>Special thanks to my cousins, Caleb, Jerome, and Jesse, for play testing and coming up with the Advanced Mǽrstánas rule.</p>
+                <footer>
+                    <p><a href="#top">[Top]</a></p>
+                </footer>
+            </section>
+            
+            <section>
+                <header>
+                    <h2>Legal</h2>
+                    <p><strong>Mǽrstánas</strong> is available under a <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International license</a>.</p>
+                </header>
+                    <strong>You are free to:</strong>
+                    <ul>
+                        <li><strong>Share</strong> - copy and redistribute the material in any medium or format</li>
+                        <li><strong>Adapt</strong> - remix, transform, and build upon the material for any purpose, even commercially.</li>
+                    </ul>
+                    <p>The licensor cannot revoke these freedoms as long as you follow the license terms.</p>
+                    <p><strong>Under the following terms:</strong></p>
+                    <ul>
+                        <li>Attribution - You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>
+                        <li>ShareAlike - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.</li>
+                    </ul>
+                    <p><strong>No additional restrictions</strong> — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</p>
+                <footer>
+                    <p><a href="#top">[Top]</a></p>
+                </footer>
+            </section>
+            <section>
+                <heading>
+                    <h2>Find out more</h2>
+                </heading>
+                <p>More information on <strong>Mǽrstánas</strong> and “living rules” can be found at: <a href="http://codeberg.org/jaerrib/maerstanas">http://codeberg.org/jaerrib/maerstanas</a>.</p>
+                    <footer>
+                        <p><a href="#top">[Top]</a></p>
+                    </footer>
+            </section>
+
+
+        </article>
+    </main>
+
+    <footer>
+        <p>Content on this site is &copy; 2023 by John Beers and licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</a>. This site uses Simple.css by <a href="https://kevquirk.com">Kev Quirk</a> and is licensed under the MIT license.</p>
+    </footer>
+
+</body>
+
+</html>
