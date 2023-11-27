@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250pt" height="250pt" viewBox="0 0 250 250" version="1.1">
+<defs>
+<radialGradient id="radial0" gradientUnits="userSpaceOnUse" cx="13.229" cy="13.229" fx="13.229" fy="13.229" r="12.7" gradientTransform="matrix(2.93333,0,0,2.93333,11.194987,111.194969)">
+<stop offset="0" style="stop-color:rgb(36.862746%,36.078432%,39.215687%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(14.117648%,12.156863%,19.215687%);stop-opacity:1;"/>
+</radialGradient>
+<radialGradient id="radial1" gradientUnits="userSpaceOnUse" cx="113.599998" cy="87.613998" fx="113.599998" fy="87.613998" r="20.108" gradientTransform="matrix(1.869962,0,0,1.869962,-162.275955,-113.680191)">
+<stop offset="0" style="stop-color:rgb(96.470588%,96.078432%,95.686275%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(75.294119%,74.901962%,73.725492%);stop-opacity:1;"/>
+</radialGradient>
+<radialGradient id="radial2" gradientUnits="userSpaceOnUse" cx="13.229" cy="13.229" fx="13.229" fy="13.229" r="12.7" gradientTransform="matrix(2.93333,0,0,2.93333,111.194977,111.194969)">
+<stop offset="0" style="stop-color:rgb(36.862746%,36.078432%,39.215687%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(14.117648%,12.156863%,19.215687%);stop-opacity:1;"/>
+</radialGradient>
+</defs>
+<g id="surface404">
+<path style="fill-rule:nonzero;fill:rgb(42.352942%,45.882353%,49.019608%);fill-opacity:1;stroke-width:2.00604;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(12.941177%,14.509805%,16.078432%);stroke-opacity:1;stroke-miterlimit:4;" d="M 1.003906 101.003906 L 98.996094 101.003906 L 98.996094 198.996094 L 1.003906 198.996094 Z M 1.003906 101.003906 "/>
+<path style="fill-rule:nonzero;fill:url(#radial0);stroke-width:0.493416;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(14.117648%,12.156863%,19.215687%);stroke-opacity:1;stroke-miterlimit:4;" d="M 87.253906 150 C 87.253906 170.574219 70.574219 187.253906 50 187.253906 C 29.425781 187.253906 12.746094 170.574219 12.746094 150 C 12.746094 129.425781 29.425781 112.746094 50 112.746094 C 70.574219 112.746094 87.253906 129.425781 87.253906 150 Z M 87.253906 150 "/>
+<path style="fill-rule:nonzero;fill:rgb(42.352942%,45.882353%,49.019608%);fill-opacity:1;stroke-width:2.00604;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(12.941177%,14.509805%,16.078432%);stroke-opacity:1;stroke-miterlimit:4;" d="M 1.152344 1.152344 L 99.148438 1.152344 L 99.148438 99.148438 L 1.152344 99.148438 Z M 1.152344 1.152344 "/>
+<path style="fill-rule:nonzero;fill:rgb(42.352942%,45.882353%,49.019608%);fill-opacity:1;stroke-width:2.00604;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(12.941177%,14.509805%,16.078432%);stroke-opacity:1;stroke-miterlimit:4;" d="M 101.003906 1.003906 L 198.996094 1.003906 L 198.996094 98.996094 L 101.003906 98.996094 Z M 101.003906 1.003906 "/>
+<path style="fill-rule:nonzero;fill:rgb(42.352942%,45.882353%,49.019608%);fill-opacity:1;stroke-width:2.00604;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(12.941177%,14.509805%,16.078432%);stroke-opacity:1;stroke-miterlimit:4;" d="M 101.003906 101.003906 L 198.996094 101.003906 L 198.996094 198.996094 L 101.003906 198.996094 Z M 101.003906 101.003906 "/>
+<path style="fill-rule:nonzero;fill:url(#radial1);stroke-width:0.781225;stroke-linecap:round;stroke-linejoin:bevel;stroke:rgb(60.392159%,60.000002%,58.823532%);stroke-opacity:1;stroke-miterlimit:4;" d="M 87.261719 50.152344 C 87.261719 70.644531 70.644531 87.261719 50.152344 87.261719 C 29.65625 87.261719 13.042969 70.644531 13.042969 50.152344 C 13.042969 29.65625 29.65625 13.042969 50.152344 13.042969 C 70.644531 13.042969 87.261719 29.65625 87.261719 50.152344 Z M 87.261719 50.152344 "/>
+<path style="fill-rule:nonzero;fill:url(#radial2);stroke-width:0.493416;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(14.117648%,12.156863%,19.215687%);stroke-opacity:1;stroke-miterlimit:4;" d="M 187.253906 150 C 187.253906 170.574219 170.574219 187.253906 150 187.253906 C 129.425781 187.253906 112.746094 170.574219 112.746094 150 C 112.746094 129.425781 129.425781 112.746094 150 112.746094 C 170.574219 112.746094 187.253906 129.425781 187.253906 150 Z M 187.253906 150 "/>
+</g>
+</svg>
