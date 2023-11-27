@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <variables>
+        <header-logo>maerstanas-logo.svg</header-logo>
+        <color-preset>vivid</color-preset>
+        <primary-color>metallic</primary-color>
+    </variables>
+    <footer>
+        <copyright>John Beers 2022-2023</copyright>
+    </footer>
+    <build-profile instance="hi">
+        <variables>
+            <header-logo>maerstanas-logo.svg</header-logo>
+            <color-preset>vivid</color-preset>
+            <primary-color>metallic</primary-color>
+        </variables>
+        <footer>
+            <copyright>John Beers 2022-2023</copyright>
+        </footer>
+    </build-profile>
+
+</buildprofiles>
