@@ -1,6 +1,6 @@
 % Mǽrstánas
 % by John Beers
-% Version 0.4
+% Version 0.4.1
 
 # Overview
 
@@ -33,6 +33,12 @@ The board begins empty (similar to Go). Traditionally, the player using the dark
 - Stones may not be placed such that four hinges are created immediately.
 - The edge of the board counts as **one** hinge; corners count as **two** because they border two edges.
 - Play continues until no more viable moves remain.
+
+## Passing rules
+
+- When playing with Special Stones, the opposing player may have viable moves remaining while the active player may not. When this occurs, the active player must pass.
+- If the opposing player uses a Thunder-stone, stones are removed from the board so new moves may become available on the player's next turn.
+
 
 ## Thunder-stone rules
 
