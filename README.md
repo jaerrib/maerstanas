@@ -1,6 +1,6 @@
 # Mǽrstánas
 
-Primary development happens on [Codeberg](https://codeberg.org/jaerrib/maerstanas) with [Github](https://github.com/jaerrib/maerstanas) acting as a mirror.
+Primary development happens on [Codeberg](https://codeberg.org/jaerrib/maerstanas) with [GitHub](https://github.com/jaerrib/maerstanas) acting as a mirror.
 
 ## Overview
 
@@ -16,11 +16,15 @@ My goal with **Mǽrstánas** is to build an engaging abstract strategy experienc
 
 ## Computer versions
 
-Computer versions of **Mǽrstánas** are being developed in tandem with the board game. The first is written in Python; the second is being implemented in JavaScript with HTML/CSS. Source code is hosted on Codeberg and mirrored on GitHub.
+Computer versions of **Mǽrstánas** are being developed in tandem with the board game. There are versions written using Python (with Django, Flask, or Pygame) and another written in JavaScript with HTML/CSS. Source code is hosted on Codeberg and mirrored on GitHub.
 
 ### Python
 
-[Codeberg](https://codeberg.org/jaerrib/maerstanas_python) | [Github](https://github.com/jaerrib/maerstanas_python)
+- Django ([Codeberg](https://codeberg.org/jaerrib/maerstanas-webapp) | [Github](https://github.com/jaerrib/maerstanas-webapp))
+
+- Flask ([Codeberg](https://codeberg.org/jaerrib/maerstanas_python) | [Github](https://github.com/jaerrib/maerstanas_python))
+
+- Pygame ([Codeberg](https://codeberg.org/jaerrib/maerstanas_python/src/branch/pygame) | [Github](https://github.com/jaerrib/maerstanas_python/tree/pygame))
 
 ### Javascript
 
@@ -28,7 +32,7 @@ Computer versions of **Mǽrstánas** are being developed in tandem with the boar
 
 ---
 
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
