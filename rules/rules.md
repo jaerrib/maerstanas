@@ -73,6 +73,13 @@ The board begins empty (similar to Go). Traditionally, the player using the dark
 
 - When playing with the traditional ruleset, disregard scoring all edge hinges. This results in a lower scoring game, but may make it easier for new or younger players to grasp scoring more quickly.
 
+## Notation
+
+- **Placement:** `E4` (stone placed at E4)
+- **Thunder-stone:** `T E4xE3/D4` (placed at E4, removes adjacent stones at E3 and D4)
+- **Wóden-stone:** `W E4` (replaces opponent’s stone at E4 with your Wóden-stone)
+- **Scoring:** At end, list the totals `Dark: 42, Light: 39`
+
 ## Credits
 
 **Mǽrstánas** was created by John Beers.
