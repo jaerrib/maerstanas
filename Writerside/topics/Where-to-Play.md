@@ -18,15 +18,13 @@ This version uses the [Flask](https://flask.palletsprojects.com/en/3.0.x/) frame
 
 #### Django
 
-<<<<<<< HEAD
 This version uses the [Django](https://www.djangoproject.com/) framework and is a full-stack web application. Players are able to log in to play asynchronous games against other players or play unranked games against variants of the bots ported from the Flask version.  
 
 [Play now](https://maerstanas.fly.dev/) or check out the [source code](https://codeberg.org/jaerrib/maerstanas-webapp)
-=======
+
 This version uses the Python-based [Django](https://www.djangoproject.com/) web framework and is a full-stack web application. An account is required. However, players can play against bots on different difficulties or play asynchronous games against other players! Games and play records can be saved to reference later.  
 
 [Play now](https://maerstanas.fly.dev/) or check out the [source code](https://codeberg.org/jaerrib/maerstanas_python)
->>>>>>> writerside
 
 #### Pygame
 
