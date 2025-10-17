@@ -4,6 +4,11 @@
 - Stones (*stánas*) must be placed within the square, not on the intersections as in Go.
 - Stones may be placed on any empty square, either standing alone or adjacent to another stone of either color (creating a *heorr* or "hinge").
 
+## Passing rules
+
+- When playing with Special Stones, the opposing player may have viable moves remaining while the active player may not. When this occurs, the active player must pass.
+- If the opposing player uses a Thunder-stone, stones are removed from the board so new moves may become available on the player's next turn.
+
 ## Placement limitations
 
 - Stones may have no more than **three** hinges; the fourth side *must always remain free*.
