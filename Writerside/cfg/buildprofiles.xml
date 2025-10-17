@@ -8,7 +8,7 @@
         <primary-color>metallic</primary-color>
     </variables>
     <footer>
-        <copyright>John Beers 2022-2024</copyright>
+        <copyright>John Beers 2022-2025</copyright>
     </footer>
     <build-profile instance="hi">
         <variables>
@@ -17,13 +17,13 @@
             <primary-color>metallic</primary-color>
         </variables>
         <footer>
-            <copyright>John Beers 2022-2024</copyright>
+            <copyright>John Beers 2022-2025</copyright>
         </footer>
     </build-profile>
     <build-profile instance="m">
         <variables>
-            <noindex-content>true</noindex-content>
             <offline-docs>false</offline-docs>
+            <noindex-content>true</noindex-content>
         </variables>
     </build-profile>
 
