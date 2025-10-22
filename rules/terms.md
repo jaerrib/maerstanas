@@ -1,6 +1,7 @@
 # Gameplay terms
 
-This document is intended to list the various Anglo-Saxon (Old English) gameplay terms associated with **Mǽrstánas**.
+This document is intended to list the various Anglo-Saxon (Old English) gameplay terms associated with **Mǽrstánas**. Definitions are sourced from [Bosworth Toller's Anglo-Saxon Dictionary online](https://bosworthtoller.com/).
+
 
 heorr (*pl.* heorras)
 
@@ -13,6 +14,10 @@ frǽcenes
 freóndlíc heorr (*pl.* freóndlíc heorras)
 
 : "friendly hinge", these are used in calculating each player's score
+
+ildan
+
+: To delay, tarry, defer, put off, postpone, procrastinate, delay the notice of anything, connive at, dissimulate 
 
 mǽrstán (*pl.* mǽrstánas)
 
