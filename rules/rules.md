@@ -1,6 +1,6 @@
 # Mǽrstánas
 
-> Version 0.5
+> Version 0.5.1
 
 ## Overview
 
@@ -36,13 +36,13 @@ The board begins empty (similar to Go). Traditionally, the player using the dark
 
 ### Passing rules
 
-- When playing with Special Stones, the opposing player may have viable moves remaining while the active player may not. When this occurs, the active player must pass.
+- When playing with Special Stones, the opposing player may have viable moves remaining while the active player may not. When this occurs, the active player must pass (*ildan* meaning "to pass").
 - If the opposing player uses a Thunder-stone, stones are removed from the board so new moves may become available on the player's next turn.
 
 ### Thunder-stone rules
 
 - Players each have **one** thunder-stone (*Þunor-stán*), which may be placed on the board during their turn **instead of a regular stone**.
-- Thunder-stones are the exception to the four hinge limitation. This is because, when placed, a thunder-stone removes any and all stones orthogonally adjacent to its position, whether they belong to the player or the opponent.
+- Thunder-stones are the exception to the four-hinge limitation. This is because, when placed, a thunder-stone removes any and all stones orthogonally adjacent to its position, whether they belong to the player or the opponent.
 - Stones which have been removed from the board are returned to the respective players and do not count as captures or contribute to scoring in any way.
 - After placement, thunder-stones hinges and scoring are treated the same as normal stones.
 
@@ -67,7 +67,7 @@ The board begins empty (similar to Go). Traditionally, the player using the dark
   - For example, position A2 would only count a hinge if a friendly stone was placed at G2. Likewise B1 would need to look at B7.
   - Stones places in corners would need to consider both opposing corners.
 - When the "wraparound" rule is in effect, edges are **not** automatically scored as hinges. Only true stone-to-stone hinges, including wraparound positions, are scored.
-- Note: This rule may create positions that normally look unplayable. Care must be exercised when looking at at edge plays.
+- Note: This rule may create positions that normally look unplayable. Care must be exercised when looking at edge plays.
 
 ### Simple scoring
 
@@ -78,7 +78,8 @@ The board begins empty (similar to Go). Traditionally, the player using the dark
 - **Placement:** `E4` (stone placed at E4)
 - **Thunder-stone:** `T E4xE3/D4` (placed at E4, removes adjacent stones at E3 and D4)
 - **Wóden-stone:** `W E4` (replaces opponent’s stone at E4 with your Wóden-stone)
-- **Scoring:** At end, list the totals `Dark: 42, Light: 39`
+- **Pass:** `Pass` (player passes)
+- **Scoring:** When the game is over, list the totals `Dark: 42, Light: 39`
 
 ## Credits
 
